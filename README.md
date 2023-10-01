@@ -4,9 +4,21 @@
 ---
 ## Little bit about me :raised_hand:
 Hi, my name is Valacor. I'm currently doing an apprenticeship as an IT specialist for application development. My passion is programming and cyber security. Besides that, I like to read new articles about IT related stuff.
-When I'm not hanging out infront of my computer to discover the secrets of new technologies, programming languages and frameworks, I enjoy hanging out with friends, watching movies and series or try to understand the mysteries of human communication 
+When I'm not hanging out infront of my computer to discover the secrets of new technologies, programming languages and frameworks, I enjoy hanging out with friends, watching movies and series or try to understand the mysteries of human communication. 
 
 --- 
+## Interests :mag:
+- Programming
+- Hacking
+- Building
+- Human communication
+
+---
+## Projects :movie_camera:
+- Smarthome system
+- Static-site generator
+- Code generators
+  
 <!--
 **valyriouc/valyriouc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
