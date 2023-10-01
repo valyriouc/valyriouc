@@ -12,6 +12,7 @@ When I'm not hanging out infront of my computer to discover the secrets of new t
 - Hacking
 - Building
 - Human communication
+- Personality development 
 
 ---
 ## Projects :movie_camera:
