@@ -7,7 +7,7 @@ Hi, my name is Valacor. I'm currently doing an apprenticeship as an IT specialis
 When I'm not hanging out infront of my computer to discover the secrets of new technologies, programming languages and frameworks, I enjoy hanging out with friends, watching movies and series or try to understand the mysteries of human communication. 
 
 --- 
-## Interests :mag:
+## Current interests :mag:
 - Programming
 - Hacking
 - Building
