@@ -13,7 +13,6 @@ When I'm not hanging out infront of my computer to discover the secrets of new t
 - Building
 - Human communication
 - Personality development 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.chumbogordo.com.br%2Fwp-content%2Fuploads%2F2019%2F06%2Fhacker2.gif&f=1&nofb=1&ipt=38f0a24758ba4c89460e241043b642f293d65d6be38b193051bde497667605bd&ipo=images">
 
 ---
 ## Projects :movie_camera:
