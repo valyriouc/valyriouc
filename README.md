@@ -121,9 +121,8 @@
 
 <!-- Coding Stats (WakaTime) -->
 ## 💻 Weekly Coding Stats
-
-[![WakaTime Stats](https://wakatime.com/badge/user/your-wakatime-user-id.svg)](https://wakatime.com/@valacor)
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=valacor&theme=dark)
+
 <!-- Support -->
 ## 💰 Support Me
 
