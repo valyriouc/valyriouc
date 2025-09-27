@@ -100,14 +100,14 @@
 <!--END_SECTION:activity-->
 
 <!-- Blog Posts -->
-## 📝 Latest Blog Posts
+## 📝 Pinned Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Blog Post Title 1](https://your-blog.com/post1)
-- [Blog Post Title 2](https://your-blog.com/post2)
-- [Blog Post Title 3](https://your-blog.com/post3)
-- [Blog Post Title 4](https://your-blog.com/post4)
-- [Blog Post Title 5](https://your-blog.com/post5)
+- [Rust: A JSON parser](https://dev.to/0xvalacor/rust-a-json-parser-2i0o)
+- [HTTP-TO-MCP bridge](https://dev.to/0xvalacor/002-wins-of-my-week-244n)
+- [Too much on my mind](https://dev.to/0xvalacor/too-much-on-my-mind-4268)
+- [Brainstorming is key](https://dev.to/0xvalacor/003-brainstorming-is-key-24bj)
+
 <!-- BLOG-POST-LIST:END -->
 
 <!-- YouTube Videos -->
