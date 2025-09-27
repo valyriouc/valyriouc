@@ -83,8 +83,8 @@
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valyriouc&repo=project1&theme=dark)](https://github.com/yourusername/project1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valyriouc&repo=project2&theme=dark)](https://github.com/yourusername/project2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valyriouc&repo=project1&theme=dark)](https://github.com/valyriouc/learning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valyriouc&repo=project2&theme=dark)](https://github.com/valyriouc/challenger)
 
 </div>
 
