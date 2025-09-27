@@ -4,7 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 <!-- Profile views counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=valyriouc&color=blue&style=flat-square)
 ![Who went on my profile](https://komarev.com/ghpvc/?username=valyriouc&color=blueviolet&style=for-the-badge&label=PROFILE+STALKERS)
 [![GitHub followers](https://img.shields.io/github/followers/valyriouc?label=Follow&style=social)](https://github.com/valyriouc)
 
