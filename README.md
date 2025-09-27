@@ -83,21 +83,10 @@
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valyriouc&repo=project1&theme=dark)](https://github.com/valyriouc/learning)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valyriouc&repo=project2&theme=dark)](https://github.com/valyriouc/challenger)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valyriouc&repo=learning&theme=dark)](https://github.com/valyriouc/learning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valyriouc&repo=challenger&theme=dark)](https://github.com/valyriouc/challenger)
 
 </div>
-
-<!-- Recent Activity -->
-## ⚡ Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR #1 in [valyriouc/learning]
-2. 💪 Opened PR #2 in [yourusername/repo]
-3. 🗣 Commented on issue #3 in [yourusername/repo]
-4. 🚀 Published release v1.0.0 in [yourusername/repo]
-5. ⭐ Starred [awesome-repo/project]
-<!--END_SECTION:activity-->
 
 <!-- Blog Posts -->
 ## 📝 Pinned Blog Posts
@@ -109,15 +98,6 @@
 - [Brainstorming is key](https://dev.to/0xvalacor/003-brainstorming-is-key-24bj)
 
 <!-- BLOG-POST-LIST:END -->
-
-<!-- YouTube Videos -->
-## 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Video Title 1](https://youtube.com/watch?v=video1)
-- [Video Title 2](https://youtube.com/watch?v=video2)
-- [Video Title 3](https://youtube.com/watch?v=video3)
-<!-- YOUTUBE:END -->
 
 <!-- Coding Stats (WakaTime) -->
 ## 💻 Weekly Coding Stats
@@ -139,7 +119,7 @@
 <!-- Snake Animation -->
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/valyriouc/valyriouc/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/valyriouc/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
