@@ -7,7 +7,7 @@
 ![Who went on my profile](https://komarev.com/ghpvc/?username=valyriouc&color=blueviolet&style=for-the-badge&label=PROFILE+STALKERS)
 [![GitHub followers](https://img.shields.io/github/followers/valyriouc?label=Follow&style=social)](https://github.com/valyriouc)
 
-![Calender](https://raw.githubusercontent.com/valyriouc/valyriouc/output/profile-3d-contrib/profile-night-rainbow.svg)
+![Weather](https://wttr.in/Stuttgart?format=%l:+%c+%t+%h+%w+%m&1)
 
 <!-- About Me Section -->
 ## 🚀 About Me
