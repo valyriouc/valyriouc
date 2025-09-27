@@ -76,20 +76,20 @@
 <!-- Activity Graph -->
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=valyriouc&theme=react-dark&hide_border=true&area=true)
 
 <!-- GitHub Trophies -->
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=valyriouc&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- Featured Projects -->
 ## 🔥 Featured Projects
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=dark)](https://github.com/yourusername/project1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=dark)](https://github.com/yourusername/project2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valyriouc&repo=project1&theme=dark)](https://github.com/yourusername/project1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valyriouc&repo=project2&theme=dark)](https://github.com/yourusername/project2)
 
 </div>
 
