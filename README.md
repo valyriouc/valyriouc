@@ -25,6 +25,8 @@
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/0xvalacor)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18750663)
 
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
+
 <!-- Tech Stack -->
 ## 💻 Tech Stack
 
