@@ -10,15 +10,13 @@
 <!-- About Me Section -->
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **[Current Project Name](project-link)**
-- 🌱 I'm currently learning **Technology/Framework**
+- 🔭 I'm currently working on **[learning](https://github.com/valyriouc/learning)**
+- 🌱 I'm currently learning **AI/.NET MCP**
 - 👯 I'm looking to collaborate on **Type of Projects**
 - 🤔 I'm looking for help with **Specific Technology**
 - 💬 Ask me about **Your Expertise Areas**
-- 📫 How to reach me: **your.email@example.com**
 - ⚡ Fun fact: **Something interesting about you**
-- 📝 I regularly write articles on [Your Blog](https://your-blog-link.com)
-- 📄 Know about my experiences [Resume Link](https://your-resume-link.com)
+- 📝 I regularly write articles on [Dev.to](https://dev.to/0xvalacor)
 
 <!-- Social Links -->
 ## 🌐 Connect with Me
@@ -48,17 +46,14 @@
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
@@ -97,7 +92,7 @@
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR #1 in [yourusername/repo]
+1. 🎉 Merged PR #1 in [valyriouc/learning]
 2. 💪 Opened PR #2 in [yourusername/repo]
 3. 🗣 Commented on issue #3 in [yourusername/repo]
 4. 🚀 Published release v1.0.0 in [yourusername/repo]
@@ -127,14 +122,7 @@
 <!-- Coding Stats (WakaTime) -->
 ## 💻 Weekly Coding Stats
 
-<!--START_SECTION:waka-->
-```text
-CSharp       40 hrs          ███████████░░░░░░░  60.0%
-Python       4 hrs 15 mins   ████████░░░░░░░░░░  24.3%
-TypeScript   2 hrs 30 mins   ████░░░░░░░░░░░░░░  14.3%
-CSS          15 mins         ░░░░░░░░░░░░░░░░░░   1.4%
-```
-<!--END_SECTION:waka-->
+[![WakaTime Stats](https://wakatime.com/badge/user/your-wakatime-user-id.svg)](https://wakatime.com/@valacor)
 
 <!-- Support -->
 ## 💰 Support Me
@@ -152,7 +140,7 @@ CSS          15 mins         ░░░░░░░░░░░░░░░░░
 <!-- Snake Animation -->
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/valyriouc/valyriouc/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
