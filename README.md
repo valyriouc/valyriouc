@@ -5,6 +5,7 @@
 
 <!-- Profile views counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=valyriouc&color=blue&style=flat-square)
+![Who went on my profile](https://komarev.com/ghpvc/?username=valyriouc&color=blueviolet&style=for-the-badge&label=PROFILE+STALKERS)
 [![GitHub followers](https://img.shields.io/github/followers/valyriouc?label=Follow&style=social)](https://github.com/valyriouc)
 
 <!-- About Me Section -->
