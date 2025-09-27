@@ -5,7 +5,7 @@
 
 <!-- Profile views counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
+[![GitHub followers](https://img.shields.io/github/followers/valacor?label=Follow&style=social)](https://github.com/valacor)
 
 <!-- About Me Section -->
 ## 🚀 About Me
