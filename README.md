@@ -12,10 +12,10 @@
 
 - 🔭 I'm currently working on **[learning](https://github.com/valyriouc/learning)**
 - 🌱 I'm currently learning **AI/.NET MCP**
-- 👯 I'm looking to collaborate on **Type of Projects**
-- 🤔 I'm looking for help with **Specific Technology**
-- 💬 Ask me about **Your Expertise Areas**
-- ⚡ Fun fact: **Something interesting about you**
+- 👯 I'm looking to collaborate on **MCP servers/REST APIs/Web platforms**
+- 🤔 I'm looking for help with **Quantum computing**
+- 💬 Ask me about **everything**
+- ⚡ Fun fact: **I can explain recursion but still struggle with CSS centering**
 - 📝 I regularly write articles on [Dev.to](https://dev.to/0xvalacor)
 
 <!-- Social Links -->
@@ -102,14 +102,6 @@
 <!-- Coding Stats (WakaTime) -->
 ## 💻 Weekly Coding Stats
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=valacor&theme=dark)
-
-<!-- Support -->
-## 💰 Support Me
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourusername)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yourusername)
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/yourusername)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/yourusername)
 
 <!-- Random Dev Quote -->
 ## ✍️ Random Dev Quote
