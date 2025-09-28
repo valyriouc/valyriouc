@@ -107,8 +107,6 @@
 ## 💻 Weekly Coding Stats
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=valacor&theme=dark)
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=valacor&theme=dark)
-
 <!-- Random Dev Quote -->
 ## ✍️ Random Dev Quote
 
